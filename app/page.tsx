@@ -6,7 +6,7 @@ import Image from 'next/image';
 export default function Page() {
   return (
     <main className="flex min-h-screen flex-col p-6">
-      <h1 className="text-blue-500">I'm blue!</h1>
+      <h1 className="text-blue-500">I&apos;m blue!</h1>
       <div
         className="h-0 w-0 border-b-[30px] border-l-[20px] border-r-[20px] border-b-black border-l-transparent border-r-transparent"
       />
